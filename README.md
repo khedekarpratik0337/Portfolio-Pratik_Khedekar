@@ -22,7 +22,7 @@ CarDekho is an Indian automotive website that provides information on new and us
 Github: (https://github.com/khedekarpratik0337/Car-Price-Prediction)
 
 **Project 2: Attrition Rate HR Analytics Dashboard** <br />
-ableau dashboard is a demostration of Attrition Analytics.Commonly referred to as a ‘churn rate,’ a company’s attrition rate is the rate at which people leave.<br />
+Tableau dashboard is a demostration of Attrition Analytics.Commonly referred to as a ‘churn rate,’ a company’s attrition rate is the rate at which people leave.<br />
 Github: (https://github.com/khedekarpratik0337/Tableau_HR-Analytics)
 
 **Project 3: Credit Card Complaints Dashboard** <br />
